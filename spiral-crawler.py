@@ -1,3 +1,4 @@
+#(C)Tsubasa Kato 2025/6/22 - Inspire Search Corp. - Created with help of Perplexity Pro.
 import math
 import requests
 import time  # Import the time module
